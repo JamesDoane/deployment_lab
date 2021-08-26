@@ -1,10 +1,20 @@
+body{
+    background-color: black;
+}
 .yeah {
-    color: tan;
-    background-color: blue;
+    color: rgba(255, 0, 0, 0.479);
     font-size: small;
     font-style: normal;
+    width: 200px;
+    height: 100px;
+    padding:15px;
+    align-content: center;
 }
-
-.small{
-    image-resolution: 75px,75px;
+img{
+    max-width: 75%;
+    height: 75%;
+}
+h2{
+    font-size:small;
+    color: azure;
 }
