@@ -1,8 +1,10 @@
-#header {
+.yeah {
     color: tan;
     background-color: blue;
+    font-size: small;
+    font-style: normal;
 }
 
-#pencil{
-    size: 75px,75px
+.small{
+    image-resolution: 75px,75px;
 }
