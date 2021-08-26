@@ -1,20 +1,20 @@
 body{
     background-color: black;
 }
-.yeah {
-    color: rgba(255, 0, 0, 0.479);
-    font-size: small;
+.center{
     font-style: normal;
-    width: 200px;
-    height: 100px;
+    width: 50%;
+    margin:auto;
     padding:15px;
-    align-content: center;
 }
-img{
-    max-width: 75%;
-    height: 75%;
+h1{
+    color:rgb(139, 0, 0);
+}
+#pencil{
+    max-width: 50%;
+    height: 50%;
 }
 h2{
     font-size:small;
-    color: azure;
+    color: darkred;
 }
